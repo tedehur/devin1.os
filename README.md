@@ -51,4 +51,4 @@ Si ça te plaît : un café ? ☕
 
 Lien direct du fichier : (https://github.com/tedehur/gh/blob/main/devin1.os.txt)
 
-licence M.I.T faite en ce que vous voulez .
+Licence : MIT – fais-en ce que tu veux.
