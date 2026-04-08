@@ -50,3 +50,5 @@ Si ça te plaît : un café ? ☕
 </a>
 
 Lien direct du fichier : (https://github.com/tedehur/gh/blob/main/devin1.os.txt)
+
+licence M.I.T faite en ce que vous voulez .
