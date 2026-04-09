@@ -44,10 +44,16 @@ Cette approche présente un **bénéfice net** pour les organisations nécessita
 - Utiliser pour les systèmes où l'intégrité est plus importante que la fluidité.
 - Combiner avec d'autres mesures de sécurité pour un contrôle complet.
 - Tester soigneusement avant la mise en production.
+
+- 
 Si ça te plaît : un café ? ☕
-<a href="https://www.buymeacoffee.com/massfranck" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
-</a>
+
+
+<a href="https://www.buymeacoffee.com/eve2.0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
+
+
 
 Lien direct du fichier : (https://github.com/tedehur/gh/blob/main/devin1.os.txt)
 
