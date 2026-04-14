@@ -49,12 +49,6 @@ Cette approche présente un **bénéfice net** pour les organisations nécessita
 Si ça te plaît : un café ? ☕
 
 
-<a href="https://www.buymeacoffee.com/eve2.0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-
-
-
-
 Lien direct du fichier : (https://github.com/tedehur/gh/blob/main/devin1.os.txt)
 
-Licence : MIT – fais-en ce que tu veux.
+Licence : MIT – fais-en ce que tu veux.https://buymeacoffee.com/eve2.0
