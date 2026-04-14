@@ -47,8 +47,9 @@ Cette approche présente un **bénéfice net** pour les organisations nécessita
 
 - 
 Si ça te plaît : un café ? ☕
+https://buymeacoffee.com/eve2.0
 
 
 Lien direct du fichier : (https://github.com/tedehur/gh/blob/main/devin1.os.txt)
 
-Licence : MIT – fais-en ce que tu veux.https://buymeacoffee.com/eve2.0
+Licence : MIT – fais-en ce que tu veux.
